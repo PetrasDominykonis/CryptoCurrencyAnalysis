@@ -1,0 +1,8 @@
+{
+    "crypto_list":[
+       "BTC, ETH, BNB, USDT, SOL, ADA, XRP, USDC, LUNA, AVAX, DOT, DOGE, SHIB, MATIC, BUSD, CRO, WBTC, LTC, UNI, UST"
+    ],
+    "stocks_list":[
+        "XAU, sp500"
+    ]
+ }
