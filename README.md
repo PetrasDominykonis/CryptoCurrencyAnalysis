@@ -1,4 +1,4 @@
-# CurrencyAnalysis
+# CryptoCurrencyAnalysis requirements
  <!--
 
  list of libriaries used
